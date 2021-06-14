@@ -1,0 +1,2 @@
+# solidPrinciples
+pengumpulan tugas10
